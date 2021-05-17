@@ -1,0 +1,8 @@
+#instrucciones de compilado del proyecto
+
+1 Debe tener instalado php y mysql en las versiones especificadas
+2 Descargue o extraiga el contenido del proyecto
+3 En la carpeta bd se encuentra el script de la base de datos debe cargarlo con phpmyadmin
+4 configure los parámetros de conexión de la base de datos en el archivo conexion.php
+
+
